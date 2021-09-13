@@ -12,16 +12,14 @@
   <a href="https://github.com/carlosaore/heroku-cleardb-fullstack-starter/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/carlosaore/heroku-cleardb-fullstack-starter/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/carlosaore/heroku-cleardb-fullstack-starter" />
-  </a>
+
 </p>
 
 > Create full stack apps with React and Express.<br>Run your client and server with a single command.
 
-### 🏠 [Homepage](https://github.com/carlosaore/heroku-cleardb-fullstack-starter#readme)
 
-### ✨ [Live demo](https://frozen-brook-20118.herokuapp.com/)
+
+### ✨ [Live demo](https://lit-castle-84094.herokuapp.com/)
 
 ## :computer: Install
 
@@ -120,18 +118,4 @@ A textData.js is also provided. See `/client/src/components/pages/Home.js` for a
 * Github: [@carlosaore](https://github.com/carlosaore)
 * LinkedIn: [@carlosaore](https://linkedin.com/in/carlosaore)
 
-## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/carlosaore/heroku-cleardb-fullstack-starter/issues).
-
-## :heart: Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2021 [Carlos Orellana](https://github.com/carlosaore).
-
-This project is [MIT](https://github.com/carlosaore/heroku-cleardb-fullstack-starter/blob/main/LICENSE) licensed.
